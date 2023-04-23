@@ -199,7 +199,7 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![png](./DSC295 Final Project - Abel Lu/output_6_0.png)
     
 
 
@@ -242,7 +242,7 @@ plt.show()
 
 
     
-![png](output_10_0.png)
+![png](./DSC295 Final Project - Abel Lu/output_10_0.png)
     
 
 
@@ -273,7 +273,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](./DSC295 Final Project - Abel Lu/output_13_0.png)
     
 
 
@@ -321,7 +321,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](./DSC295 Final Project - Abel Lu/output_17_0.png)
     
 
 
@@ -377,7 +377,7 @@ plt.show()
 
 
     
-![png](output_23_0.png)
+![png](./DSC295 Final Project - Abel Lu/output_23_0.png)
     
 
 
@@ -419,7 +419,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](./DSC295 Final Project - Abel Lu/output_25_0.png)
     
 
 
